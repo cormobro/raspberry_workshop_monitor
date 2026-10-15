@@ -1,0 +1,17 @@
+Outils de bureau — étiquettes de scan rapide AtelierBorne. Ne pas installer sur le Pi.
+
+Contenu des QR : BCELL-ENTREE:<référence Dolibarr> (+1) et BCELL-SORTIE:<référence Dolibarr> (-1).
+produits_achat.csv : 44 produits « en achat » (export Dolibarr du 14/10/2026, produits en vente exclus,
+  ainsi que BASE_51.2_230Ah et BASE_51.2_314Ah, à la fois en achat et en vente).
+
+1) P-touch Editor (Brother QL-1110NWB, rouleau DK-11241 102 x 152 mm) — méthode retenue
+   python3 -m pip install qrcode
+   python3 generer_lbx.py modele_vide_QL1110_DK11241.lbx produits_achat.csv etiquettes_lbx
+   -> une étiquette .lbx par produit, deux colonnes encadrées, QR 2.4 pt (validé dans P-touch 5.4).
+
+2) PDF 102 x 152 mm (portrait, QR 38 mm, couleur) — alternative sans P-touch
+   python3 -m pip install reportlab
+   python3 generer_etiquettes.py produits_achat.csv etiquettes.pdf
+   Imprimer à 100 % avec le pilote Brother, papier DK-11241.
+
+Pour ajouter des produits : compléter produits_achat.csv (référence;libellé) et relancer.

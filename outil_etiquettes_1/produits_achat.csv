@@ -1,0 +1,45 @@
+Référence;Libellé
+EVE_LF105_105Ah;EVE Prismatic Cells 105Ah 3,2V
+DNA_48_105_KIT;Boîtier DNA 51,2V 105 Ah complet sans batterie
+MASON_48_314_CASE;Boîtier MASON 51,2V 314 Ah
+MASON_48_230_CASE;Boîtier MASON 51,2V 230 Ah
+PARA_12_314_KIT;Boîtier PARA 12.8V 314 Ah complet sans batterie
+BMS_3.0_16S_200A;BMS 3.0 16S 200A
+CORNEX_PF173_314Ah;CORNEX Prismatic Cells 314Ah 3,2V
+EVE_LF230_230Ah;EVE Prismatic Cells 230Ah 3,2V
+MASON_48_314_L_CASE;Boîtier MASON 51,2V 314 Ah L
+MASON_48_628_CASE;Boîtier MASON 51,2V 628 Ah
+BMS_2.0_16S_200A;BMS 2.0 16S 200A
+BMS_3.0_2P16S_200A;BMS 3.0 2P16S 200A
+BMS_3.0_8S_200A;BMS 3.0 8S 200A
+MASON_24_314_CASE;MASON 24 314 CASE
+ACTIVE_BALANCER_SEPLOS_16S_2A;ACTIVE BALANCER SEPLOS 16S 2A
+Connecteur_Equilibreur_Cellules;Connecteur Equilibreur Cellules
+PCB_A_16kWh_BMS_3.0;PCB A 16kWh BMS 3.0
+PCB_B_16kWh_BMS_3.0;PCB B 16kWh BMS 3.0
+Connecteur_BMS_PCB_Noir;Connecteur BMS PCB (noir)
+Connecteur_BMS_PCB_Blanc;Connecteur BMS PCB (blanc)
+Connecteur_Equilibreur_PCB_A;Connecteur équilibreur PCB A
+Connecteur_Equilibreur_PCB_B;Connecteur équilibreur PCB B
+Switch_BMS;Switch BMS
+Switch_Equilibreur;Switch équilibreur
+Connecteur_JST_4-pins_double;Connecteur JST 4-pins (double)
+Connecteur_BMS_Cellules;Connecteur BMS Cellules
+Connecteur_BMS_2.0_LCD;Connecteur BMS 2.0 LCD
+Ecran_LCD_BMS_2.0;Ecran LCD BMS 2.0
+Ecran_LCD_BMS_3.0;Ecran LCD BMS 3.0
+Facade_48V_230Ah_BMS_3.0_1-Switch;Facade 48V 230Ah BMS3.0 (1-Switch)
+Facade_48V_314Ah_BMS_3.0_2-Switch;Facade 48V 314Ah BMS3.0 (2-Switch)
+Facade_48V_206Ah_BMS_3.0_1-Switch;Facade 48V 206Ah BMS3.0 (1-Switch)
+Facade_48V_314Ah_BMS_3.0_1-Switch;Facade 48V 314Ah BMS3.0 (1-Switch)
+Facade_48V_105Ah;Facade 48V 105Ah
+Facade_48V_280Ah_BMS_3.0_1-Switch;Facade 48V 280Ah BMS3.0 (1-Switch)
+Facade_48V_280Ah_BMS_2.0;Facade 48V 280Ah BMS2.0
+PCB_B_16kWh_BMS_2.0;PCB B 16kWh BMS 2.0
+PCB_A_16kWh_BMS_2.0;PCB A 16kWh BMS 2.0
+PCB_A_11kWh_BMS_3.0;PCB A 11kWh BMS 3.0
+PCB_B_11kWh_BMS_3.0;PCB B 11kWh BMS 3.0
+PCB_A_11kWh_BMS_2.0;PCB A 11kWh BMS 2.0
+PCB_B_11kWh_BMS_2.0;PCB B 11kWh BMS 2.0
+PCB_B_5kWh;PCB B 5kWh
+PCB_A_5kWh;PCB A 5kWh
